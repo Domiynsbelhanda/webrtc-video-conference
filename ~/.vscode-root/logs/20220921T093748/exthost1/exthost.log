@@ -1,0 +1,3 @@
+[2022-09-21 09:37:50.953] [exthost] [info] Extension host with pid 9590 started
+[2022-09-21 09:38:42.145] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-09-21 09:38:42.147] [exthost] [info] Extension host with pid 9590 exiting with code 0
